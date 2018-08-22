@@ -1,3 +1,5 @@
 purple
 yellow 
 green
+pink
+brown
